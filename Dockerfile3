@@ -1,0 +1,25 @@
+FROM node:12.14.1-alpine
+
+RUN apk add git
+RUN npm install -g gatsby-cli
+WORKDIR /app
+RUN gatsby new malak_resume https://github.com/barancezayirli/gatsby-starter-resume-cms
+
+WORKDIR /app/malak_resume
+RUN ls
+
+COPY profile.json ./data
+RUN ls
+COPY profile.jpg ./static
+RUN ls
+
+
+RUN npm install 
+
+CMD ["gatsby", "build"]
+
+FROM nginx as server
+
+EXPOSE 80
+
+COPY --from=node /app/malak_resume/public /usr/share/nginx/html

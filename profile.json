@@ -1,0 +1,195 @@
+{
+  "contact": {
+    "phone": "+216 22 506 498",
+    "email": "malak.bendalla@etudiant-isi.utm.tn",
+    "location": "Tunis, Tunisia"
+  },
+  "skills": [
+    {
+      "title": "General",
+      "type": "percent",
+      "subskills": [
+       
+         {
+          "name": "Backend Development",
+          "percent": 60
+        },
+       
+        {
+          "name": "UX",
+          "percent": 70
+        },
+        
+        {
+          "name": "Artificial Intelligence",
+          "percent": 50
+        },
+        {
+          "name": "Project Management",
+          "percent": 50
+        },
+        
+        {
+          "name": "Blockchain",
+          "percent": 60
+        },
+        {
+          "name": "Dev Ops",
+          "percent": 40
+        }
+    
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subskills": [
+        
+        {
+          "name": "Java",
+          "percent": 70
+        },
+        {
+          "name": "Python",
+          "percent": 40
+        },
+        {
+          "name": ".Net Core",
+          "percent": 30
+        },
+        {
+          "name": "C/C++",
+          "percent": 50
+        }
+        ,
+        {
+          "name": "HTML/CSS",
+          "percent": 80
+        },
+        {
+          "name": "javascript",
+          "percent": 50
+        }
+
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "type": "tag",
+      "subskills": [
+       
+        {
+          "name": "Spring Boot"
+        },
+        {
+          "name": "Angular"
+        },
+        {
+          "name": "TensoFlow"
+        },
+        {
+          "name": "Keras"
+        }
+    
+      ]
+    },
+    {
+      "title": "Software",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Docker"
+        },
+        {
+          "name": "Kubernetes"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "MySQL"
+        },
+        {
+          "name": "Postgresql"
+        },
+        {
+          "name": "Oracle"
+        }
+      ]
+    }
+  ],
+  "summary": "I have big dreams to make true and I think that I am on the right road to be a successful woman. I believe that the key is that I am doing what I love to do with passion and faith. I always take risk to learn from new adventures because I believe that nothing is impossible while doing your best. ",
+  "education": [
+    {
+      "institution": "Higher Institue of Computer Science ISI, Ariana, Tunisia",
+      "degree": "Software Engineering",
+      "start": "2018",
+      "end": ""
+    },
+    {
+      "institution": "Higher Institue of Computer Science ISI, Ariana, Tunisia",
+      "degree": "Basic Degree in Computer Sciences",
+      "start": "2015",
+      "end": "2018"
+    }
+    ,
+    {
+      "institution": "Ibn Sina High School, Tunis, Tunisia",
+      "degree": "Bachelo of Mathematics ",
+      "start": "2014",
+      "end": "2015"
+    }
+    
+  ],
+  "experience": [
+    {
+      "role": "Summer Internship: E-commerce Recommender System",
+      "company": "DATASCAI",
+      "description": "Ensure a recommendation system for products that the user used to buy: IA, python.",
+      "start": "08/2020",
+      "end": "09/2020"
+    },
+    {
+      "role": "End of Term Project: Carthage BussinessWare",
+      "company": "Malaeb Limited",
+      "description": "Development of a Web Application in PHP5 for the management of multichannel customers: Administrator back-office system to manage targeted digital marketing campaigns and Transactional extranet which represents a web space accessible by users.",
+      "start": "02/2018",
+      "end": "06/2018"
+    },
+    {
+      "role": "Summer Internship",
+      "company": "Tunisie Télécom",
+      "description": "Desktop application in Java to control the staff time spent at work",
+      "start": "07/2017",
+      "end": "07/2017"
+    }
+  ],
+  "social": [
+    {
+      "service": "youtube",
+      "url": "https://www.youtube.com/channel/UCK0zcdc_ZlRGWRicH6AjqgQ"
+    },
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/malak-ben-dalla-350171188/"
+    },
+    
+    {
+      "service": "github",
+      "url": "https://github.com/malakbendalla1"
+    }
+  ],
+  "role": "Software Engineer",
+  "projects": [
+    {
+      "name": "Gatsby resume starter with Docker",
+      "company": "Open source",
+      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation with Docker. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
+      "link": "https://github.com/malakbendalla1/gatsby-starter-resume-cms"
+    }
+  ],
+  "fullname": "Malak Ben Dalla"
+}
